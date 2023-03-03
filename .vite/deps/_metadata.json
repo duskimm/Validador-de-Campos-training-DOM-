@@ -1,0 +1,13 @@
+{
+  "hash": "163238eb",
+  "browserHash": "66583112",
+  "optimized": {
+    "validator": {
+      "src": "../../node_modules/validator/index.js",
+      "file": "validator.js",
+      "fileHash": "2f9b7436",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}
