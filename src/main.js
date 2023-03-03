@@ -1,4 +1,5 @@
 import validator from 'validator';
+import './style.css';
 
 const campoDeTexto = document.querySelector('#value');
 const button = document.querySelector('#button');
